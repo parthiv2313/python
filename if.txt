@@ -1,0 +1,34 @@
+1.Simple if
+
+if condition:
+	statement
+
+
+2.If/Else
+
+ if condition:
+	statement
+else:
+	statement
+
+
+3.Nested if
+
+if condition:
+	if condition:
+		statement
+	else 
+		statement
+else:
+	statement
+
+
+4.Ladder If/Else
+
+	if condition:
+            elif condition:
+		statement
+            elif condition:
+		statement
+        else:
+	     statement
